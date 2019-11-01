@@ -3,11 +3,11 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Root N',
+  subtitle: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server administration.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Root N',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server maintenance and web design.',
     contacts: {
-      email: '',
+      email: 'rootn.9633@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'rootn9633',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: '皓恩-柯-934b5117b',
       instagram: '#',
       line: '',
       gitlab: '',
