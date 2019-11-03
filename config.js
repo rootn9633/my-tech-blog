@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Root N',
+    name: 'Howard Ke',
     photo: '/photo.jpg',
     bio: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server maintenance and web design.',
     contacts: {

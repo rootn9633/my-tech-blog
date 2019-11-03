@@ -28,7 +28,7 @@ The main program.
 ADLSconfig.py
 The config file containing storage account 
 To use the script, simply run `python3 ADLSconnection.py [file name]`. The file will then be uploaded to the path and storage account as specified in the config file.
- 
+
 ## Overview
 
 The steps to upload a file to ADLS is as below. Note that uploading one file requires three different API calls.
