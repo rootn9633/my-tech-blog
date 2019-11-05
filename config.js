@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.rootn.rocks',
   pathPrefix: '/',
   title: 'Blog by Root N',
   subtitle: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server administration.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-122823873-2',
   useKatex: false,
   menu: [
     {
