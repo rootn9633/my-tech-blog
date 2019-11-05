@@ -26,14 +26,14 @@ I explored the Azure Data Lake Storage REST API. Using the  [API](https://docs.m
 | zebra stripes | are neat      |
 The main program.
 ADLSconfig.py
-The config file containing storage account 
+The config file containing storage account
 To use the script, simply run `python3 ADLSconnection.py [file name]`. The file will then be uploaded to the path and storage account as specified in the config file.
 
 ## Overview
 
 The steps to upload a file to ADLS is as below. Note that uploading one file requires three different API calls.
 
-1. [Authentication](https://docs.microsoft.com/pl-pl/rest/api/storageservices/authorize-with-shared-key#constructing-the-canonicalized-resource-string) 
+1. [Authentication](https://docs.microsoft.com/pl-pl/rest/api/storageservices/authorize-with-shared-key#constructing-the-canonicalized-resource-string)
 2. [Create file](https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/create) : Create an empty file in ADLS first.
 3. [Append file](https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update) : Append the data to the file, note that the content haven’t been inserted yet as this point. This API can be called in parallel to upload a large file.
 4. [Flush data](https://docs.microsoft.com/en-us/rest/api/storageservices/datalakestoragegen2/path/update) : After all the data has been uploaded, use this API to flush the data into the file.
