@@ -4,7 +4,7 @@ date: "2019-11-05T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/Setting-up-Wireguard-on-Ubuntu-18.04/"
-category: "Azure"
+category: "Wireguard"
 tags:
   - "Wireguard"
   - "Ubuntu"

@@ -4,7 +4,7 @@ date: "2019-11-05T22:12:03.284Z"
 template: "post"
 draft: true
 slug: "/posts/Using-Wireguard-on-iPhone-and-Mac/"
-category: "Azure"
+category: "Wireguard"
 tags:
   - "Wireguard"
   - "Ubuntu"
