@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://blog.rootn.rocks',
   pathPrefix: '/',
-  title: 'Blog by Root N',
+  title: 'Tech Blog by RootofN',
   subtitle: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server administration.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
