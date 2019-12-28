@@ -2,7 +2,7 @@
 title: Setting up ZFS
 date: "2019-12-16T22:12:03.284Z"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/Setting-up-ZFS/"
 category: "ZFS"
 tags:
