@@ -37,11 +37,11 @@ rootn-bsd01:~:% zpool status
   scan: none requested
 config:
 
-	NAME        STATE     READ WRITE CKSUM
-	mypool      ONLINE       0     0     0
-	  mirror-0  ONLINE       0     0     0
-	    ada1    ONLINE       0     0     0
-	    ada2    ONLINE       0     0     0
+NAME        STATE     READ WRITE CKSUM
+mypool      ONLINE       0     0     0
+  mirror-0  ONLINE       0     0     0
+    ada1    ONLINE       0     0     0
+    ada2    ONLINE       0     0     0
 
 errors: No known data errors
 
@@ -50,9 +50,9 @@ errors: No known data errors
   scan: none requested
 config:
 
-	NAME        STATE     READ WRITE CKSUM
-	zroot       ONLINE       0     0     0
-	  ada0p3    ONLINE       0     0     0
+NAME        STATE     READ WRITE CKSUM
+zroot       ONLINE       0     0     0
+  ada0p3    ONLINE       0     0     0
 
 errors: No known data errors
 ```
@@ -68,7 +68,7 @@ zroot   61.5G  2.32G  59.2G        -         -     2%     3%  1.00x  ONLINE  -
 
 ### Creating a new dataset
 
-```
+```shell
 zfs create [-pu] [-o property=value]... filesystem
 zfs create [-ps] [-b blocksize] [-o property=value]... -V size volume
 ```
