@@ -1,6 +1,6 @@
 ---
 title: My own NAS with Raspberry Pi
-date: "2020-03-07T22:12:03.284Z"
+date: "2020-03-24T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "/posts/My-own-NAS-with-Raspberry-Pi"
