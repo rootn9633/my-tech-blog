@@ -7,6 +7,7 @@ slug: "/posts/Set-up-Kubernetes-with-Virtualbox/"
 category: "Kubernetes"
 tags:
   - "Kubernetes"
+  - "k8s"
   - "Virtualbox"
   - "Ubuntu"
 description: "The steps for setting up Kubernetes with Virtualbox VMs"
