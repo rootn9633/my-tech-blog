@@ -148,3 +148,7 @@ I went to Services > SMB/CIFS to enable SMB. I enabled Home directories so that 
 Now I can see my user folder (rootn) when I connect to the SMB server.
 
 ![OMV view fs](/media/2020-03-24---My-own-NAS-with-Raspberry-Pi/finder-omv.png)
+
+## Reference
+
+[OpenMediaVault Document](https://github.com/OpenMediaVault-Plugin-Developers/docs/blob/master/Adden-B-Installing_OMV5_on_an%20R-PI.pdf)
