@@ -13,7 +13,7 @@ tags:
 description: "How I set up my own NAS with a Raspberry Pi 4"
 ---
 
-I have always wanted my own NAS seeing that I have limited storage on my laptop. Since I have an external hard drive, and a raspberry pi just laying around, I decided to finally do it.
+I have always wanted my own NAS  seeing that I have limited storage on my laptop. Since I have an external hard drive, and a raspberry pi just laying around, I decided to finally do it.
 I have tha following goals for this project, and in this post I'm going to start from the first.
 
 1. Set up OpenMediaVault and enable smb
