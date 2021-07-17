@@ -1,5 +1,5 @@
 ---
-title: random vs urandom in linux
+title: Linux random vs urandom
 date: "2021-07-18T00:00:00.000Z"
 template: "post"
 draft: false
