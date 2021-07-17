@@ -36,6 +36,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'weibo':
       href = `https://www.weibo.com/${contact}`;
       break;
+    case 'cv':
+      href = `${contact}`;
+      break;
     default:
       href = contact;
       break;

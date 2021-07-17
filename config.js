@@ -30,7 +30,7 @@ module.exports = {
     bio: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server maintenance and web design.',
     contacts: {
       email: 'rootn.9633@gmail.com',
-      facebook: '#',
+      facebook: 'aaaaa',
       telegram: '#',
       twitter: '#',
       github: 'rootn9633',
@@ -40,7 +40,8 @@ module.exports = {
       instagram: '#',
       line: '',
       gitlab: '',
-      weibo: ''
+      weibo: '',
+      cv: '/cv.pdf'
     }
   }
 };
