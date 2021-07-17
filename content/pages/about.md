@@ -4,4 +4,4 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server maintenance and web design.
+Currently an EECS masters student at UC Berkeley. My interests range from cloud technology to embedded systems. Basically, I like to connect things together.
