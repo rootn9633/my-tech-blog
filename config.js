@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://blog.rootn.rocks',
   pathPrefix: '/',
   title: 'Tech Blog by RootofN',
-  subtitle: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server administration.',
+  subtitle: 'Current EECS masters student at UC Berkeley.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Howard Ke',
     photo: '/photo.jpg',
-    bio: 'Currently an Electronic Engineering student from NCTU, my interests range from embedded systems to server maintenance and web design.',
+    bio: 'Current EECS masters student at UC Berkeley.',
     contacts: {
       email: 'rootn.9633@gmail.com',
       facebook: 'aaaaa',
