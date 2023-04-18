@@ -9,7 +9,7 @@ tags:
   - "Helm"
   - "Helm Secrets"
   - "Kubernets"
-description: "what is the difference between /dev/random and /dev/urandom?"
+description: "How to install the helm-secrets plugin"
 ---
 
 Some things are secret, and storing them as plain text in your helm chart is a bad idea. This is where [helm secrets](https://github.com/jkroepke/helm-secrets) comes in handy. It is a helm plugin that uses the [Mozilla Sops](https://github.com/mozilla/sops) tool to manages secrets.
@@ -19,7 +19,7 @@ Some things are secret, and storing them as plain text in your helm chart is a b
 Presuming helm is installed already, installing is simple with helm plugin.
 
 ```bash
-helm plugin install https://github.com/futuresimple/helm-secrets
+helm plugin install https://github.com/jkroepke/helm-secrets --version v4.4.2
 ```
 
 ## Generate
