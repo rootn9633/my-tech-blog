@@ -13,7 +13,7 @@ description: "How to install the helm-secrets plugin"
 ---
 
 A Homelab is a constantly evolving thing. Here is a snapshot of my homelab by the end of 2023. I still have many changes in mind so 2024 will be a busy year!
-![homelab diagram](./2023-12-31---My-homelab-2023/homelab-diagram.png)
+![homelab diagram](./homelab-diagram.png)
 
 ## Hardware
 
