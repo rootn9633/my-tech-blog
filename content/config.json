@@ -1,0 +1,34 @@
+{
+  "title": "Blog by Howard",
+  "url": "https://blog.rootn.rocks",
+  "description": "Currently Software Engineer at Google. My interests ranges from cloud technology to embedded systems. Basically, I like to connect things together.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-73379983-2",
+  "pathPrefix": "/",
+  "feedLimit": 4,
+  "menu": [
+    {
+      "title": "Articles",
+      "url": "/"
+    },
+    {
+      "title": "About me",
+      "url": "/pages/about"
+    }
+  ],
+  "author": {
+    "title": "Howard",
+    "photo": "./logo.jpg",
+    "description": "Currently Software Engineer at Google. My interests ranges from cloud technology to embedded systems. Basically, I like to connect things together.",
+    "contacts": [
+      {
+        "name": "github",
+        "contact": "rootn9633"
+      },
+      {
+        "name": "linkedin",
+        "contact": "howard-ke"
+      }
+    ]
+  }
+}
