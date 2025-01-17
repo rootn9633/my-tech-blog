@@ -5,7 +5,7 @@
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "pathPrefix": "/",
-  "feedLimit": 4,
+  "feedLimit": 10,
   "menu": [
     {
       "title": "Articles",
